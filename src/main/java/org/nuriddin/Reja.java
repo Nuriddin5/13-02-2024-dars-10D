@@ -17,6 +17,6 @@ public class Reja {
     //todo Java keyboards
     //chatGpt vs https://core.telegram.org/bots/api
 
-
+    //todo Java exceptions
 
 }
