@@ -18,5 +18,7 @@ public class Reja {
     //chatGpt vs https://core.telegram.org/bots/api
 
 
+    //git vs github
+
 
 }
